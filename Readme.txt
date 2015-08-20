@@ -1,3 +1,3 @@
 some data
 test integration with Jira
-and with SFR jira pls
+and with SFR jira
